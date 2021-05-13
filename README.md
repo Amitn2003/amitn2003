@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python pygame**
 
-- 👯 I’m looking to collaborate on **Gameing developers**
+- 👯 I’m looking to collaborate on **Gaming developers**
 
 - 🤝 I’m looking for help with **Python programming**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [http://ghostamit.blogspot.com](http://ghostamit.blogspot.com)
 
-- 💬 Ask me about **pygame**
+- 💬 Ask me about **python**
 
 - 📫 How to reach me **Amitnaskar2003@gmail.com**
 
