@@ -1,25 +1,23 @@
 <h1 align="center">Hi 👋, I'm Amitn2003</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-- 🔭 I’m currently working on python games. [Stone paper seasor game](https://github.com/Amitn2003/Stone-paper-seasor-game)
+- 🔭 I’m currently working on python games. [Tictactoe game](https://github.com/Amitn2003/Tictactoe)
 
-- 🌱 I’m currently learning **Python pygame**
+- 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **Gaming developers**
+- 👯 I’m looking to collaborate on **Python or JavaScript developers**
 
-- 🤝 I’m looking for help with **Python programming**
+- 🤝 I’m looking for help for **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amitn2003](https://github.com/Amitn2003)
-
-- 📝 I regularly write articles on [http://ghostamit.blogspot.com](http://ghostamit.blogspot.com)
 
 - 💬 Ask me about **python**
 
 - 📫 How to reach me **Amitnaskar2003@gmail.com**
 
-- 📄 Know about my experiences [Python, html, css etc.](Python, html, css etc.)
+- 📄 Know about my experiences [Python, html, css, javascript, Django etc.](Python, html, css, Javascript, django etc.)
 
-- ⚡ Fun fact **Sometimes I don't know what I'm doing 😅**
+- ⚡ Fun fact **My codes are full of bugs 😅**
 
 
 <h3 align="left">Languages and Tools:</h3>
